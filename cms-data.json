@@ -2,11 +2,11 @@
   "products": {
     "nukini": {
       "id": "nukini",
-      "name": "Rapé Nukini",
-      "price": 2500,
-      "emoji": "🌿",
+      "name": "tecamachalco",
       "imageType": "emoji",
+      "emoji": "🌿",
       "imageUrl": "",
+      "price": 2500,
       "description": "Rapé tradicional de la tribu Nukini, conocido por su efecto clarificador y equilibrante.",
       "features": [
         "Claridad Mental",
