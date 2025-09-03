@@ -1,0 +1,136 @@
+{
+  "products": {
+    "nukini": {
+      "id": "nukini",
+      "name": "Rapé Nukini",
+      "price": 2500,
+      "emoji": "🌿",
+      "imageType": "emoji",
+      "imageUrl": "",
+      "description": "Rapé tradicional de la tribu Nukini, conocido por su efecto clarificador y equilibrante.",
+      "features": [
+        "Claridad Mental",
+        "Conexión Espiritual"
+      ],
+      "stock": "En Stock"
+    },
+    "huni-kuin": {
+      "id": "huni-kuin",
+      "name": "Rapé Huni Kuin",
+      "price": 2800,
+      "emoji": "🍃",
+      "imageType": "emoji",
+      "imageUrl": "",
+      "description": "Medicina sagrada de la tribu Huni Kuin del Acre, Brasil. Elaborado con plantas medicinales.",
+      "features": [
+        "Introspección",
+        "Sanación"
+      ],
+      "stock": "En Stock"
+    }
+  },
+  "ceremonies": {
+    "luna-nueva": {
+      "id": "luna-nueva",
+      "name": "Ceremonia de Luna Nueva",
+      "date": "2025-03-15",
+      "time": "16:00 - 20:00 hs",
+      "location": "Centro Ceremonial Pachamama, Buenos Aires",
+      "facilitator": "Shamán Carlos Nukini",
+      "description": "Ceremonia especial de luna nueva para liberar lo que ya no sirve y manifestar nuevas intenciones.",
+      "imageUrl": "",
+      "price": 8500,
+      "spots": 12
+    }
+  },
+  "content": {
+    "navigation": {
+      "brand": "☀️ Hijos del Sol",
+      "links": {
+        "inicio": "Inicio",
+        "productos": "Productos",
+        "ceremonias": "Ceremonias",
+        "nosotros": "Nosotros",
+        "contacto": "Contacto"
+      }
+    },
+    "hero": {
+      "title": "☀️ Hijos del Sol",
+      "subtitle": "Conecta con la medicina ancestral en un espacio sagrado de sanación, transformación y comunidad",
+      "button1": "Explorar Productos",
+      "button2": "Ver Ceremonias",
+      "background_image": "",
+      "use_gradient": true
+    },
+    "products_section": {
+      "title": "🌿 Nuestros Productos Sagrados",
+      "subtitle": "Medicina ancestral de las tradiciones amazónicas"
+    },
+    "ceremonies_section": {
+      "title": "🕉️ Ceremonias Sagradas",
+      "subtitle": "Espacios de sanación y transformación"
+    },
+    "about": {
+      "title": "🌞 Nuestra Misión",
+      "text1": "Somos Hijos del Sol, una comunidad dedicada a preservar y compartir las tradiciones ancestrales de medicina sagrada.",
+      "text2": "Nuestro compromiso es crear espacios seguros de sanación donde cada persona pueda conectar con su esencia.",
+      "values": {
+        "value1": {
+          "icon": "🙏",
+          "text": "Respeto Ancestral"
+        },
+        "value2": {
+          "icon": "💚",
+          "text": "Sanación Auténtica"
+        },
+        "value3": {
+          "icon": "🌱",
+          "text": "Crecimiento Espiritual"
+        }
+      },
+      "placeholder": {
+        "icon": "🌞",
+        "text": "Espacio de medicina sagrada"
+      }
+    },
+    "contact_section": {
+      "title": "📞 Conecta con Nosotros",
+      "info_title": "Información de Contacto",
+      "form_title": "Envíanos un Mensaje",
+      "form_placeholders": {
+        "name": "Tu nombre",
+        "email": "Tu email",
+        "phone": "Tu teléfono",
+        "message": "Tu mensaje o consulta"
+      },
+      "form_button": "Enviar Mensaje"
+    },
+    "footer": {
+      "brand_text": "Medicina ancestral con respeto y tradición",
+      "links_title": "Enlaces",
+      "contact_title": "Contacto",
+      "copyright": "© 2025 Hijos del Sol. Todos los derechos reservados."
+    },
+    "cart": {
+      "title": "🛒 Carrito de Compras",
+      "total_text": "Total",
+      "buttons": {
+        "clear": "🗑️ Vaciar",
+        "continue": "Seguir Comprando",
+        "checkout": "Finalizar Compra"
+      },
+      "empty_message": "Tu carrito está vacío",
+      "cart_button": "🛒"
+    },
+    "page_title": "☀️ Hijos del Sol - Ceremonias Sagradas"
+  },
+  "contact": {
+    "phone": "+54 11 2345-6789",
+    "email": "medicina@hijosdelsol.com",
+    "address": "Buenos Aires, Argentina",
+    "instagram": "@hijosdelsol.ceremonias",
+    "whatsapp": "5491123456789"
+  },
+  "lastUpdated": "2025-09-03T00:16:55.583Z",
+  "version": "4.0-github-sync"
+}
